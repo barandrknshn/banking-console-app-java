@@ -45,8 +45,9 @@ Bu proje sayesinde aşağıdaki konular üzerinde çalışma yapılmıştır:
 ```text
 src/
 ├── Main.java
+├── OldMain.java
 ├── Hesap.java
-├── Hesap1.java
+├── HesapBilgisi.java
 ├── Bakiye.java
 ├── Bildirim.java
 ├── Doviz.java
